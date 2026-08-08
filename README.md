@@ -1,5 +1,4 @@
 # Selena-Ai
-Groq Integrated Polymarket Betting System 
 The AI-powered Polymarket sports trading engine.
 
 Selena is built to watch the market so you don’t have to.
